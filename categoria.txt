@@ -1,0 +1,5 @@
+1000;Pantalon
+1001;polo
+1002;casaca
+1003;blusa
+1004;falda

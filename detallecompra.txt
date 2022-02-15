@@ -1,0 +1,2 @@
+pantalon jean;50.0;20;rojo;24;En Stock;1001;1001;1000
+polo;50.0;10;verde;L;En Stock;1002;1002;1001
